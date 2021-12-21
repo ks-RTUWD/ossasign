@@ -1,6 +1,6 @@
 # ossasign
 
-#*Apache License 2.0*
+#Apache License 2.0
 _복제, 배포, 수정의 권한 허용	가능
 배포시 라이선스 사본 첨부	가능
 저작권 고지사항 또는 Attribution 고지사항 유지	가능
