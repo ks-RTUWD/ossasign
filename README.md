@@ -15,11 +15,11 @@ _복제, 배포, 수정의 권한 허용	가능
 
 *오픈소스소프트웨어 과제제출*
 _참고 자료_
-1.나도코딩 파이썬 강좌 https://www.youtube.com/watch?v=sf5TmP137IM&list=WL&index=71&t=28s
-2.나도코딩 파이썬 강좌 https://www.youtube.com/watch?v=Dkx8Pl6QKW0
+1. 나도코딩 파이썬 강좌 https://www.youtube.com/watch?v=sf5TmP137IM&list=WL&index=71&t=28s
+2. 나도코딩 파이썬 강좌 https://www.youtube.com/watch?v=Dkx8Pl6QKW0
 
 *작동*
-1.assemble.py실행하기
+1. assemble.py실행하기
 2. character를 키보드 방향키로 조작하여 원하는 게임 선택
 3. 원하는 게임을 실행하여 즐기기
 4. 게임이 종료되면 다시 게임을 선택하여 즐기거나 종료창을 눌러 종료하기
